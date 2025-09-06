@@ -11,7 +11,8 @@ These mini projects are designed to:
 
 - ✅ Reinforce data science concepts through hands-on practice  
 - ✅ Help build a strong portfolio with real-world examples  
-- ✅ Cover a wide range of topics in small, manageable chunks  
+- ✅ Cover a wide range of topics in small, manageable chunks
+- ✅ Visualize the data 
 
 ---
 
@@ -20,7 +21,8 @@ These mini projects are designed to:
 Each subfolder contains a standalone mini project focusing on a specific topic, such as:
 
 - 📊 **Feature Extraction**  
-- 🌍 **Country Data Analysis** (New!)  
+- 🌍 **Country Data Analysis** (New!)
+-  🚢 [Titanic Project]
 - 🔜 More projects coming soon...
 
 ---
